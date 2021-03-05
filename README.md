@@ -1,5 +1,5 @@
 
-# Readme File Generator
+# READ ME FILE GENERATOR
 ### Created  by manuelg139 Github user.
 
 
@@ -22,13 +22,13 @@ For this project we used the npm init -y and init install inquirer command.
 To run this program you will need to access the main folder where index.js exists and run node index.js and follow the commands for a successful Read Me File. 
 
 ### Contributors
-I worked on this project by myself.  
+Worked by myself. 
 
 ### Tests
-Not at the moment. 
+n/a 
 
 ### Licenses
-https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square
+<img width="930" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square">
 
 
 ### Reach out for any questions.
