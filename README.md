@@ -4,13 +4,13 @@
 
 
 ## Table of Content
--Description
+- Description
 - Installation
 - Usage
--Contributions
--Tests
--License 
--Questions
+- Contributions
+- Tests
+- License 
+- Questions
 
 ### Description
 This program allows you to use Node.js to create automatic Readme.md files.  

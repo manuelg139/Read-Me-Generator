@@ -73,13 +73,13 @@ const generateREADME = (answers) =>
 
 
 ## Table of Content
--Description
+- Description
 - Installation
 - Usage
--Contributions
--Tests
--License 
--Questions
+- Contributions
+- Tests
+- License 
+- Questions
 
 ### Description
 ${answers.description} 
