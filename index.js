@@ -40,7 +40,15 @@ const writeFileAsync = util.promisify(fs.writeFile);
         type: 'list',
         name: 'licenses',
         message: 'What Licenses are neeeded for this program?',
-        choices: ['IBM', 'MIT', 'ISC'],
+        choices: ["MIT License",
+        "Code Project Open License (CPOL)",
+        "Common Development and Distribution License (CDDL)",
+        "Microsoft Public License (Ms-PL)",
+        "Mozilla Public License 1.1 (MPL 1.1)",
+        "Common Public License Version 1.0 (CPL)",
+        "Eclipse Public License 1.0",
+        "Apache License, Version 2.0"
+    ],
         default: 'MIT'
       },
       {
@@ -97,7 +105,8 @@ ${answers.contributors}
 ${answers.tests} 
 
 ### Licenses
-${answers.licenses} 
+https://img.shields.io/badge/license-${answers.licenses.replace(/ /g, "%20")}-blue?style=flat-square
+
 
 ### Reach out for any questions.
 ${answers.email} 
@@ -118,3 +127,10 @@ const init = () => {
 
 // Function call to initialize app
 init();
+
+
+// This program allows you to create automatic Readme files for your projects by following a series of commands on node.js. 
+
+//For this project we used the npm init -y and init install inquirer command.
+
+// To run this program you will need to access the main folder where index.js exists and run node index.js and follow the commands for a successful Read Me File.

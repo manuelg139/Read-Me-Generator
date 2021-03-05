@@ -1,6 +1,6 @@
 
 # Readme File Generator
-### Created  by Manuelg139 Github user.
+### Created  by manuelg139 Github user.
 
 
 ## Table of Content
@@ -13,22 +13,23 @@
 - Questions
 
 ### Description
-This program allows you to use Node.js to create automatic Readme.md files.  
+This program allows you to create automatic Readme files for your projects by following a series of commands on node.js.  
 
 ### Installation
-nmp init -y and npm install inquirer 
+For this project we used the npm init -y and init install inquirer command. 
 
 ### How to use.
-Make sure you are in the folder where the file index.js exists and run 'node index.js' and follow the insructions for the prompts. 
+To run this program you will need to access the main folder where index.js exists and run node index.js and follow the commands for a successful Read Me File. 
 
 ### Contributors
-I worked on this project myslef. 
+I worked on this project by myself.  
 
 ### Tests
-Not at the moment.  
+Not at the moment. 
 
 ### Licenses
-IBM 
+https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square
+
 
 ### Reach out for any questions.
 manuelg139@gmail.com 
