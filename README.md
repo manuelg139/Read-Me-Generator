@@ -2,8 +2,10 @@
 # ReadMe Generator
 ### Created  by manuelg139 Github user.
 
+
 ### Licenses
-<img width="50" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square">
+<img width="170" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square">
+
 
 ## Table of Content
 - Description
@@ -15,23 +17,19 @@
 - Questions
 
 ### Description
-This program allows you to create automated Readme files for yout project. 
+This program allows you to create automatic Readme files for your projects by following a series of commands on node.js.  
 
 ### Installation
-npm init -y and npm install inquirer 
+For this project we used the npm init -y and init install inquirer command.
 
 ### How to use.
-node index.js 
+To run this program you will need to access the main folder where index.js exists and run node index.js and follow the commands for a successful Read Me File.
 
 ### Contributors
-no 
+No. I worked alone for this project.
 
 ### Tests
-n/a 
-
-### Licenses
-<img width="200" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square">
-
+N/A
 
 ### Reach out for any questions.
 manuelg139@gmail.com 
