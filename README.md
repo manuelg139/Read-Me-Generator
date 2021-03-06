@@ -1,7 +1,9 @@
 
-# READ ME FILE GENERATOR
-### Created  by manuelg139 Github user.
+# fdfds
+### Created  by sdfsdf Github user.
 
+### Licenses
+<img width="50" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-Mozilla%20Public%20License%201.1%20(MPL%201.1)-blue?style=flat-square">
 
 ## Table of Content
 - Description
@@ -13,24 +15,24 @@
 - Questions
 
 ### Description
-This program allows you to create automatic Readme files for your projects by following a series of commands on node.js.  
+erwer 
 
 ### Installation
-For this project we used the npm init -y and init install inquirer command. 
+dfdfds 
 
 ### How to use.
-To run this program you will need to access the main folder where index.js exists and run node index.js and follow the commands for a successful Read Me File. 
+tgerf 
 
 ### Contributors
-Worked by myself. 
+dfsdfrfre 
 
 ### Tests
-n/a 
+dsdverfre 
 
 ### Licenses
-<img width="930" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square">
+<img width="50" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-Mozilla%20Public%20License%201.1%20(MPL%201.1)-blue?style=flat-square">
 
 
 ### Reach out for any questions.
-manuelg139@gmail.com 
+dferfr3 
 
