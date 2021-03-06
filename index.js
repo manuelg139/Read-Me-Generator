@@ -107,7 +107,7 @@ ${answers.contributors}
 ${answers.tests} 
 
 ### Licenses
-<img width="50" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-${answers.licenses.replace(/ /g, "%20")}-blue?style=flat-square">
+<img width="200" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-${answers.licenses.replace(/ /g, "%20")}-blue?style=flat-square">
 
 
 ### Reach out for any questions.

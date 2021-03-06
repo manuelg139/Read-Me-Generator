@@ -1,9 +1,9 @@
 
-# fdfds
-### Created  by sdfsdf Github user.
+# ReadMe Generator
+### Created  by manuelg139 Github user.
 
 ### Licenses
-<img width="50" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-Mozilla%20Public%20License%201.1%20(MPL%201.1)-blue?style=flat-square">
+<img width="50" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square">
 
 ## Table of Content
 - Description
@@ -15,24 +15,24 @@
 - Questions
 
 ### Description
-erwer 
+This program allows you to create automated Readme files for yout project. 
 
 ### Installation
-dfdfds 
+npm init -y and npm install inquirer 
 
 ### How to use.
-tgerf 
+node index.js 
 
 ### Contributors
-dfsdfrfre 
+no 
 
 ### Tests
-dsdverfre 
+n/a 
 
 ### Licenses
-<img width="50" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-Mozilla%20Public%20License%201.1%20(MPL%201.1)-blue?style=flat-square">
+<img width="200" alt="Screen Shot 2021-01-11 at 10 59 23 PM" src="https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square">
 
 
 ### Reach out for any questions.
-dferfr3 
+manuelg139@gmail.com 
 
