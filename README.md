@@ -34,3 +34,7 @@ N/A
 ### Reach out for any questions.
 manuelg139@gmail.com 
 
+### Screengrab
+![ReadMeGenerator-Instructions](https://user-images.githubusercontent.com/75399668/110221620-db082080-7e92-11eb-990c-544c876d4f79.gif)
+
+
