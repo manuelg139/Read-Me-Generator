@@ -37,4 +37,5 @@ manuelg139@gmail.com
 ### Screengrab
 ![ReadMeGenerator-Instructions](https://user-images.githubusercontent.com/75399668/110221620-db082080-7e92-11eb-990c-544c876d4f79.gif)
 
+![ReadMeGenerator-Instructions2](https://user-images.githubusercontent.com/75399668/110221801-d55f0a80-7e93-11eb-99bb-bae9258727a1.gif)
 
